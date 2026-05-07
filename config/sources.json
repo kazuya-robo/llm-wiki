@@ -1,0 +1,10 @@
+﻿{
+  "manual_inbox": "00_inbox/urls/inbox.csv",
+  "rss_sources": [],
+  "arxiv_queries": [
+    "large language models",
+    "AI agents",
+    "retrieval augmented generation",
+    "software engineering AI"
+  ]
+}

@@ -1,0 +1,24 @@
+﻿{
+  "topics": [
+    {
+      "id": "ai_research",
+      "name": "AI Research",
+      "keywords": ["llm", "large language model", "rag", "benchmark", "arxiv", "evaluation", "reasoning"]
+    },
+    {
+      "id": "ai_agents",
+      "name": "AI Agents",
+      "keywords": ["agent", "agents", "workflow", "tool use", "mcp", "automation", "multi-agent"]
+    },
+    {
+      "id": "dx_cases",
+      "name": "DX Cases",
+      "keywords": ["dx", "digital transformation", "case study", "business", "operations", "productivity"]
+    },
+    {
+      "id": "dev_standardization",
+      "name": "Dev Standardization",
+      "keywords": ["coding agent", "code review", "ci", "cd", "development standard", "software quality", "prompt engineering"]
+    }
+  ]
+}
