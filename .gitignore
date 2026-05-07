@@ -19,3 +19,7 @@ logs/*.log
 # Temporary files
 *.tmp
 *.bak
+
+# Obsidian local settings
+.obsidian/
+
